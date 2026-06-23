@@ -377,10 +377,10 @@ Ao final do desenvolvimento, o pipeline ETL estava **100% funcional**, com todas
 
 <div align="center">
 
-**Seu Nome**
+**Éder Félix**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ederfelixsilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/éder-félix)
 
 _Desenvolvedor em transição para Engenharia de Dados_  
 _Aberto a oportunidades de estágio e posições júnior_
